@@ -1,8 +1,8 @@
-#include <stdio.h>
-
    ===================================
    ATIVIDADE 1
    ====================================
+      
+#include <stdio.h>
 int main(void) {
     int opcao = 1;
     int idade = 20;
