@@ -1,4 +1,4 @@
-     Atividade 1
+       --- Atividade 1 ---
 
 #include <stdio.h>
 int main(void) {
@@ -10,12 +10,11 @@ int main(void) {
     printf("%d\n", a / b);
     printf("%d\n", a % b);
 
-    Atividade 2 
-    (Com leitura de dados via scanf)
+       --- Atividade 2 ---
     int numero1, numero2;
-    printf("Digite um numero: ");
+    printf("digite um numero: ");
     scanf("%d", &numero1);
-    printf("Digite outro numero: ");
+    printf("digite outro numero: ");
     scanf("%d", &numero2);
 
     printf("Adicao = %d\n", numero1 + numero2);
